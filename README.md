@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BuCHIU
-- 👀 I’m interested in playing game
+
 
 
 <!---
